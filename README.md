@@ -1,6 +1,15 @@
 # hidpi_osx
 Enable HiDPI mode on OS X
 
+
+# Update
+
+- This is outdated. Try https://github.com/avibrazil/RDM on macOS High Sierra
+- Also, if you 'want to use a HiDPI resolution that is half the native size of the monitor, but this doesn't work', see http://www.madrau.com/support/support/faq.html
+
+- Also, just a reference here https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/
+
+
 # HiDPI on Mac OS X EL Capitan, Dell U3011 
 
 ![image/png](http://chengguangnan.com/uploads/1956390242)
